@@ -1,5 +1,5 @@
 - 👋 Hi, I’m leonardo
-- 👀 I’m interested in fullstack development
+- 👀 I’m interested in full stack development
 - 🌱 I’m atualmente aprendendo .net, reat e react-native
 - 📫 How to reach me leorodrigueslr377@gmail.com
 
