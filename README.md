@@ -4,9 +4,9 @@
 <div>
   <a href="https://github.com/leonardorodriguess">
   <!-- <a href="https://github.com/leonardorodriguess"> -->
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=leonardorodriguess&show_icons=true&theme=dracula&count_private=true"/>
+  <img width=54% src="https://github-readme-stats.vercel.app/api?username=leonardorodriguess&show_icons=true&theme=dracula&count_private=true"/>
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardorodriguess&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/> -->
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardorodriguess&layout=compact&langs_count=6&theme=dracula&hide=html,java,shell,batchfile"/>
+  <img width=45% height=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardorodriguess&layout=compact&langs_count=6&theme=dracula&hide=html,java,shell,batchfile"/>
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardorodriguess&layout=compact&langs_count=6&theme=dracula&hide=html,java,shell,batchfile"/> -->
 </div>
 </div>
